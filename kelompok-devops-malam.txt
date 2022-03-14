@@ -7,3 +7,7 @@ Kelompok DevOps - One
 5.Operate (Jira/Ansible) - Muhammad Yusuf Salman (0110219009)
 6.Continuous Feedback (ELK Stack) - Rifqi Fadhlurrahman (0110220063)
 
+
+kelompok DevOps - three
+
+1. planning (trello/Google Drive) - supriyanto(0110219021)
